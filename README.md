@@ -34,7 +34,7 @@
 ### ⚙️ Backend  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
-  **Express.js**
+  <span style="color: white; font-weight: bold; font-size: 20px;">Express.js</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40px"/>
 </p>
