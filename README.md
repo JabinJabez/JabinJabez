@@ -3,7 +3,7 @@
 🎓 **Computer Science Engineering Student**  
 💻 **Passionate Frontend Developer** | 🚀 Building amazing UIs  
 
-<img align="right" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 # 🚀 Welcome to My GitHub Profile!  
 
