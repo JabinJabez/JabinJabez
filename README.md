@@ -5,7 +5,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-# 🚀 Welcome to My GitHub Profile!  
+## 🚀 Welcome to My GitHub Profile!
 
 ### 🌐 Portfolio  
 🚀 Here's my [Portfolio](https://jabinjabez-portfolio.netlify.app/)  
@@ -28,17 +28,14 @@
 🔹 [Job Finder App](https://github.com/JabinJabez/job-portal) - React-based job portal with filters  
 🔹 [Student Management System](https://github.com/JabinJabez/student-database-management) - Spring Boot CRUD app  
 
-
 ### 📫 How to Reach Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jabinjabez/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JabinJabez)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JabinJabez)  
 
-
 ### 📊 GitHub Stats  
 ![Jabin Jabez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JabinJabez&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JabinJabez&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JabinJabez&layout=compact&theme=radical)  
 
----
 🌟 *Thanks for visiting! Feel free to connect with me!* 🤝  
 ![Visitor Count](https://komarev.com/ghpvc/?username=JabinJabez&color=blue)
