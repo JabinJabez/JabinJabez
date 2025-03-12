@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 Its's me Jabin Jabez
+
+Computer Science Engineering Student
+<img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhoeXluOGQxMGpwNGc5YWFpeXNsN3VhenJ6N2xhMGNvZnowb3BoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
 
 <!--
 **JabinJabez/JabinJabez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
