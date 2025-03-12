@@ -1,19 +1,36 @@
-## Hi there 👋 Its's me Jabin Jabez
+## 👋 Hi there! I'm **Jabin Jabez** 🚀
 
-Computer Science Engineering Student
-<img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhoeXluOGQxMGpwNGc5YWFpeXNsN3VhenJ6N2xhMGNvZnowb3BoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
+🎓 **Computer Science Engineering Student**  
+💻 **Passionate Frontend Developer** | 🚀 Building amazing UIs  
 
-<!--
-**JabinJabez/JabinJabez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
 
-Here are some ideas to get you started:
+# 🚀 Welcome to My GitHub Profile!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Portfolio  
+🚀 Here's my [Portfolio](https://jabinjabez-portfolio.netlify.app/)  
+
+### 👨‍💻 About Me  
+💡 Passionate about Frontend Development  
+📌 Skilled in React, Angular, Tailwind CSS, and more  
+🌱 Currently learning **Next.js & AI-powered projects**  
+📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/jabinjabez/)**  
+
+### 🛠 Tech Stack  
+💻 **Frontend**: React, Angular, JavaScript, HTML, CSS  
+⚙️ **Backend**: Node.js, Express, Spring Boot  
+🛢 **Database**: MySQL, PostgreSQL  
+🎨 **UI/UX**: Tailwind CSS, Bootstrap  
+
+### 📌 Featured Projects  
+🔹 [Job Finder App](https://github.com/JabinJabez/job-portal) - React-based job portal with filters  
+🔹 [AI Resume Builder](https://github.com/JabinJabez/ai-resume-builder) - Smart resume generator  
+🔹 [Student Management System](https://github.com/JabinJabez/student-database-management) - Spring Boot CRUD app  
+
+### 📊 GitHub Stats  
+![Jabin Jabez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JabinJabez&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JabinJabez&layout=compact&theme=radical)
+
+---
+🌟 *Thanks for visiting! Feel free to connect with me!* 🤝  
+![Visitor Count](https://komarev.com/ghpvc/?username=JabinJabez&color=blue)
