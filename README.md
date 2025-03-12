@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me  
 💡 Passionate about Frontend Development  
-📌 Skilled in React, Angular, Tailwind CSS, and more  
+📌 Skilled in React, Tailwind CSS, and more  
 🌱 Currently learning **Next.js & AI-powered projects**  
 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/jabinjabez/)**  
 
