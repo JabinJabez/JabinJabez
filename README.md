@@ -17,10 +17,11 @@
 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/jabinjabez/)**  
 
 ### 🛠 Tech Stack  
-💻 **Frontend**: React, JavaScript, HTML, CSS  
-⚙️ **Backend**: Node.js, Express, Spring Boot  
-🛢 **Database**: MySQL, PostgreSQL  
-🎨 **UI/UX**: Tailwind CSS, Bootstrap  
+💻 **Frontend**: React, JQuery, JavaScript, HTML, CSS  
+⚙️ **Backend**: Node.js, Express, Java, Spring Boot  
+🛢 **Database**: MySQL, PostgreSQL, MongoDB  
+🎨 **UI/UX**: Tailwind CSS, Bootstrap, Canva  
+🛠 **Tools**: VS Code, IntelliJ IDEA, PyCharm, Postman  
 
 ### 📌 Featured Projects  
 🔹 [Portfolio](https://github.com/JabinJabez/Portfolio-animated) - Personal portfolio built with React & Tailwind CSS  
