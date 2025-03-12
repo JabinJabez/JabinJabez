@@ -17,7 +17,7 @@
 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/jabinjabez/)**  
 
 ### 🛠 Tech Stack  
-💻 **Frontend**: React, Angular, JavaScript, HTML, CSS  
+💻 **Frontend**: React, JavaScript, HTML, CSS  
 ⚙️ **Backend**: Node.js, Express, Spring Boot  
 🛢 **Database**: MySQL, PostgreSQL  
 🎨 **UI/UX**: Tailwind CSS, Bootstrap  
