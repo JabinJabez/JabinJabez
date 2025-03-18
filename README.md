@@ -61,7 +61,7 @@
 ![Jabin Jabez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JabinJabez&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JabinJabez&layout=compact&theme=radical)  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/JabinJabez?theme=dark&font=Baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jabin1104?theme=dark&font=Baloo)
 
 🌟 *Thanks for visiting! Feel free to connect with me!* 🤝  
 ![Visitor Count](https://komarev.com/ghpvc/?username=JabinJabez&color=blue)
