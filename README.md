@@ -7,8 +7,8 @@
 
 ## 🚀 Welcome to My GitHub Profile!  
 
-### 🌐 Portfolio  
-🚀 Here's my [Portfolio](https://jabinjabez-portfolio.netlify.app/) 
+<!-- ### 🌐 Portfolio  
+🚀 Here's my [Portfolio](https://jabinjabez-portfolio.netlify.app/) -->
 
 ### 👨‍💻 About Me  
 💡 Passionate about Frontend Development  
