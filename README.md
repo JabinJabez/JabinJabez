@@ -44,7 +44,7 @@
 ---
 
 ## 📌 Featured Projects  
-🔹 [Portfolio](https://github.com/JabinJabez/Portfolio-animated) - Personal portfolio built with React & Tailwind CSS  
+<!--🔹 [Portfolio](https://github.com/JabinJabez/Portfolio-animated) - Personal portfolio built with React & Tailwind CSS  -->
 🔹 [Job Finder App](https://github.com/JabinJabez/job-portal) - React-based job portal with filters  
 🔹 [Student Management System](https://github.com/JabinJabez/student-database-management) - Spring Boot CRUD app  
 
